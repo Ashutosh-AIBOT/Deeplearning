@@ -1,0 +1,8 @@
+# Stable local versions aligned with your Colab run
+torch==2.11.0+cu128
+pandas==2.2.2
+altair==5.5.0
+datasets==4.0.0
+spacy==3.8.14
+tokenizers==0.22.2
+GPUtil==1.4.0

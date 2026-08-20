@@ -1,0 +1,14 @@
+{
+  "id": "ashutoshaibot/v4-transformer-chatbot",
+  "title": "v4 Transformer Chatbot",
+  "code_file": "transformer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "accelerator": "gpu_t4x2",
+  "enable_internet": true,
+  "competition_sources": [],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
