@@ -1,0 +1,7 @@
+
+print("accum_iter:", RUN_CONFIG.get("accum_iter"))
+print("warmup:", RUN_CONFIG.get("warmup"))
+print("num_epochs:", RUN_CONFIG.get("num_epochs"))
+print("checkpoint prefix:", RUN_CONFIG.get("file_prefix"))
+
+show_weight_dashboard(model)

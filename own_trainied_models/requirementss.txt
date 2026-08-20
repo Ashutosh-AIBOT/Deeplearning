@@ -1,0 +1,8 @@
+# Exact versions from Colab (Python 3.12, CUDA 12.8)
+torch==2.11.0+cu128
+pandas==2.2.2
+altair==5.5.0
+datasets==4.0.0
+spacy==3.8.14
+tokenizers==0.22.2
+GPUtil==1.4.0
